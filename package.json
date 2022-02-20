@@ -1,9 +1,9 @@
 {
-  "name": "horizontalserverlist",
+  "name": "GuildbarTop",
   "version": "1.0",
   "description": "Moves the server list from the left to the top of Discord.",
   "repository": "https://github.com/NupNipz/Darker-Theme",
-  "author": "NupNipz#3849>",
+  "author": "NupNipz#3849",
   "license": "MIT",
   "private": false,
   "scripts": {
