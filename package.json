@@ -2,7 +2,7 @@
   "name": "GuildbarTop",
   "version": "1.0",
   "description": "Moves the server list from the left to the top of Discord.",
-  "repository": "https://github.com/NupNipz/Darker-Theme",
+  "repository": "https://github.com/NupNipz/GuildBar",
   "author": "NupNipz#3849",
   "license": "MIT",
   "private": false,
