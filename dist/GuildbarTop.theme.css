@@ -3,10 +3,10 @@
  * @author NupNipz#3849
  * @version 1.0
  * @description Moves the guild bar to the top
- * @source https://github.com/NupNipz/Darker-Theme/tree/main/GuildList
+ * @source https://github.com/NupNipz/GuildBar
 */
 
-@import url("https://raw.githubusercontent.com/NupNipz/Darker-Theme/main/GuildList/dist/GuildbarTop.css");
+@import url("https://raw.githack.com/NupNipz/GuildBar/main/dist/GuildbarTop.css");
 
 /* Bottom GuildbarTop. Simply remove the comments surrounding the @import to enable it. */
 /* @import url("https://discordstyles.github.io/Addons/bottomhsl.css"); */
