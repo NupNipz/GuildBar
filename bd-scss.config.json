@@ -5,13 +5,13 @@
 	"dev": [
 		{
 			"target": ["src", "main.scss"],
-			"output": "HorizontalServerList.theme.css"
+			"output": "GuildbarTop.theme.css"
 		}
 	],
 	"build": [
 		{
 			"target": ["src", "_base.scss"],
-			"output": ["dist", "dist", "HorizontalServerList.css"]
+			"output": ["dist", "dist", "GuildbarTop.css"]
 		}
 	]
 }

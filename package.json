@@ -1,9 +1,9 @@
 {
   "name": "horizontalserverlist",
-  "version": "1.0.0",
+  "version": "1.0",
   "description": "Moves the server list from the left to the top of Discord.",
   "repository": "https://github.com/NupNipz/Darker-Theme",
-  "author": "Gibbu <Gibbu_@hotmail.com>",
+  "author": "NupNipz#3849>",
   "license": "MIT",
   "private": false,
   "scripts": {
