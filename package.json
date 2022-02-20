@@ -5,7 +5,7 @@
   "repository": "https://github.com/NupNipz/GuildBar",
   "author": "NupNipz#3849",
   "license": "MIT",
-  "private": false,
+  "private": true,
   "scripts": {
     "dev": "bd-scss dev",
     "build": "bd-scss build"
